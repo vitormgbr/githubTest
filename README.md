@@ -1,2 +1,2 @@
 # githubTest
-Testing GitHub functionalities, now with the first change!
+Testing GitHub functionalities, now with the first change! Second change test.
